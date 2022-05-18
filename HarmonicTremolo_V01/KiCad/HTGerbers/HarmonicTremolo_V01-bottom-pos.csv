@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,SM4001,D_SOD-123,159,-131.5,180,bottom
+R17,4.7k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,197.612,-116.078,270,bottom
+R18,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,166,-121,270,bottom
+R19,100k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,167,-134,0,bottom
+R20,470k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,178,-137,90,bottom
+R21,100k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,159.512,-122.428,180,bottom
+R22,100k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,188.75,-131.5,180,bottom
+R23,47k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,166,-130,90,bottom
+R24,100k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,166,-126,180,bottom
+R25,1k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,186.69,-143.256,0,bottom
+R26,22k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,164,-138,90,bottom
+R27,1k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,156.21,-143.51,0,bottom
+R28,22k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,177,-133,180,bottom
+R29,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,171,-144,180,bottom
+R30,1k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,161.036,-113.538,180,bottom
+U2,LM324,SOIC-14_3.9x8.7mm_P1.27mm,172,-127,0,bottom
+U3,LM358,SOIC-8_3.9x4.9mm_P1.27mm,172,-138,180,bottom
